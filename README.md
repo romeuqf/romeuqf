@@ -1,14 +1,46 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 I'm Romeu Fronzaroli, data analyst from Brazil.
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+## 📫 Reach me: 
+<a href="https://www.linkedin.com/in/romeufronzaroli/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin: romeufronzaroli" data-canonical-src="https://img.shields.io/badge/-romeufronzaroli-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/romeufronzaroli/" style="max-width:100%;"></a>
+<a href="https://www.instagram.com/romeu.fronzaroli/" rel="nofollow"><img src="https://camo.githubusercontent.com/fb9dce7e587c033b550a94d232d2957b372e916bc6c5788d58a3a078e2b2ef6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d6331333538343f7374796c653d666c6174266c6162656c436f6c6f723d633133353834266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/-Instagram-c13584?style=flat&amp;labelColor=c13584&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://github.com/romeuqf"><img src="https://camo.githubusercontent.com/5c8c95ac48ba4bcc1018a7c80c530bcd4c82794d4655999472465b625e76a17e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:romeuqf@gmail.com"><img src="https://camo.githubusercontent.com/37a0a7efce77df18e02fbe00ec51bcbd8ae94a8b824143c4449c4977bf5b1d79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f75746c6f6f6b2d3030373844343f7374796c653d666c6174266c6f676f3d4d6963726f736f66742d4f75746c6f6f6b266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-0078D4?style=flat&amp;logo=Microsoft-Outlook&amp;logoColor=white" style="max-width:100%;"></a>
 
-![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+## 📖🌱 Currently learning:
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+
+## ⚡ Technologies & Tools:
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
+
+## 📈 GitHub Stats:
+<img align="center" alt="Romeu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=romeuqf&count_private=true&show_icons=true&theme=radical" style="max-width:100%;"/>
+
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeuqf&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" style="max-width:100%;"/>
+
+
+
+<img align="left" alt="Visits Badge" src="https://badges.pufler.dev/visits/romeuqf/romeuqf" style="max-width:100%;"/>
+
+
+
+
+
 
 
 <!--
