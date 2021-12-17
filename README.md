@@ -16,9 +16,24 @@ I'm Romeu Fronzaroli, data analyst from Brazil.
 ## ⚡ Technologies & Tools:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MicrosoftSQLServer-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 
+<!-- Estudar! -->
+<!-- ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Scikit_learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pycaret-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) -->
+
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Matplotlib-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Seaborn-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
@@ -27,6 +42,8 @@ I'm Romeu Fronzaroli, data analyst from Brazil.
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Plataform-PowerBi-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats:
 <img align="center" alt="Romeu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=romeuqf&count_private=true&show_icons=true&theme=radical" style="max-width:100%;"/>
