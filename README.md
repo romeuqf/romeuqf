@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I'm Romeu Fronzaroli, data analyst from Brazil.
+I'm Romeu Fronzaroli, data analyst and dev from Brazil.
 
 
 ## 📫 Reach me: 
