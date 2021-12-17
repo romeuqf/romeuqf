@@ -44,6 +44,8 @@ I'm Romeu Fronzaroli, data analyst from Brazil.
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Plataform-PowerBi-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Plataform-SAS--Guide-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Plataform-SAS--Miner-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a) -->
 
 ## 📈 GitHub Stats:
 <img align="center" alt="Romeu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=romeuqf&count_private=true&show_icons=true&theme=radical" style="max-width:100%;"/>
