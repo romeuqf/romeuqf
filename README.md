@@ -50,7 +50,7 @@ I'm Romeu Fronzaroli, data analyst and dev from Brazil.
 ## 📈 GitHub Stats:
 <img align="center" alt="Romeu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=romeuqf&count_private=true&show_icons=true&theme=radical" style="max-width:100%;"/>
 
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeuqf&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" style="max-width:100%;"/>
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeuqf&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" style="max-width:100%;"/>
 
 
 
