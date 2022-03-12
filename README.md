@@ -6,10 +6,10 @@ class RomeuFronzaroli:
         self.__heigh = 168
         self.__weight = 80
         self.__love = ['Girlfriend', 'Dachshund']
-        self.__likes = ['Food', 'Books', 'Coding', 'Dogs', 'Music']
+        self.__likes = ['Food', 'Books', 'Coding', 'Dogs', 'Music', 'Electronics', 'Arduino', 'Raspberyy']
         self.__dislikes = ['Lost Time']
         self.__project = 'Confrades Tech'
-        self.__reading = ['Head First Python']
+        self.__reading = ['Head First Python','Learning scikit-learn: Machine Learning in Python','Python Cookbook']
         self.__thinking = 'Blockchain'
         self.__studing = 'Machine Learning'
         
