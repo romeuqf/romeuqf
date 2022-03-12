@@ -1,15 +1,19 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ```python
 class RomeuFronzaroli:
-    def __init__(self, age, heigh, weight, likes, dislikes, reading, thinking, studing):
+    def __init__(self, age, heigh, weight, love, likes, dislikes, project, reading, thinking, studing, ,):
         self.__age = 30
         self.__heigh = 168
         self.__weight = 80
+        self.__love = ['Girlfriend', 'Dachshund']
         self.__likes = ['Food', 'Books', 'Coding', 'Dogs', 'Music']
         self.__dislikes = ['Lost Time']
+        self.__project = 'Confrades Tech'
         self.__reading = ['Head First Python']
         self.__thinking = 'Crypto'
         self.__studing = 'Machine Learning'
+        
+        
 ```
 
 
