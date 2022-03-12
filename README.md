@@ -10,7 +10,7 @@ class RomeuFronzaroli:
         self.__dislikes = ['Lost Time']
         self.__project = 'Confrades Tech'
         self.__reading = ['Head First Python']
-        self.__thinking = 'Crypto'
+        self.__thinking = 'Blockchain'
         self.__studing = 'Machine Learning'
         
         
