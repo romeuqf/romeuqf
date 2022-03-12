@@ -8,7 +8,7 @@ class RomeuFronzaroli:
         self.__likes = ['Food', 'Books', 'Coding', 'Dogs', 'Music']
         self.__dislikes = ['Lost Time']
         self.__reading = ['Head First Python']
-        self.__thinking = 'In time'
+        self.__thinking = 'Crypto'
         self.__studing = 'Machine Learning'
 ```
 
