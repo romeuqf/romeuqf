@@ -1,9 +1,21 @@
-<meta name="image" property="og:image" content="https://miro.medium.com/max/1400/0*9f5uMrKMjLbzEf7q.png">
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+```python
+class RomeuFronzaroli:
+    def __init__(self, age, heigh, weight, likes, dislikes, reading, thinking, studing):
+        self.__age = 30
+        self.__heigh = 168
+        self.__weight = 80
+        self.__likes = ['Food', 'Books', 'Coding', 'Dogs', 'Music']
+        self.__dislikes = ['Lost Time']
+        self.__reading = ['Head First Python']
+        self.__thinking = 'In time'
+        self.__studing = 'Machine Learning'
+```
 
 
-I'm Romeu Fronzaroli, data analyst and dev from Brazil.
+![Cabeçalho de blog 1200x600  px](https://user-images.githubusercontent.com/58861825/158035778-f26c224c-cd54-49ac-b2af-493eeb90c893.png)
+
+
 
 
 ## 📫 Reach me: 
