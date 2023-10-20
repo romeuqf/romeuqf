@@ -2,9 +2,9 @@
 ```python
 class RomeuFronzaroli:
     def __init__(self, age, heigh, weight, love, likes, dislikes, project, reading, thinking, studing):
-        self.__age = 30
+        self.__age = 31
         self.__heigh = 168
-        self.__weight = 80
+        self.__weight = 83
         self.__love = ['Girlfriend', 'Dachshund']
         self.__likes = ['Food', 'Books', 'Coding', 'Dogs', 'Music', 'Electronics', 'Arduino', 'Raspberyy']
         self.__dislikes = ['Lost Time']
