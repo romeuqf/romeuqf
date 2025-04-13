@@ -60,7 +60,7 @@ class RomeuFronzaroli:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=Pycham&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
