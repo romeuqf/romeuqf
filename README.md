@@ -40,7 +40,7 @@ class RomeuFronzaroli:
 ![](https://img.shields.io/badge/Code-MicrosoftSQLServer-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Pyspark-informational?style=flat&logo=Pyspark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pyspark-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 
 <!-- Estudar! -->
