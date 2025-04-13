@@ -40,6 +40,7 @@ class RomeuFronzaroli:
 ![](https://img.shields.io/badge/Code-MicrosoftSQLServer-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pyspark-informational?style=flat&logo=Pyspark&logoColor=white&color=2bbc8a)
 
 
 <!-- Estudar! -->
@@ -56,6 +57,7 @@ class RomeuFronzaroli:
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
@@ -64,8 +66,6 @@ class RomeuFronzaroli:
 
 ![](https://img.shields.io/badge/Plataform-PowerBi-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Plataform-SAS--Guide-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Plataform-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Plataform-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Plataform-SAS--Miner-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a) -->
 
 ## 📈 GitHub Stats:
