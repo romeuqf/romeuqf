@@ -65,6 +65,7 @@ class RomeuFronzaroli:
 ![](https://img.shields.io/badge/Plataform-PowerBi-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Plataform-SAS--Guide-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Plataform-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Plataform-Databricks-informational?style=flat&logo=Databricks&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Plataform-SAS--Miner-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a) -->
 
 ## 📈 GitHub Stats:
