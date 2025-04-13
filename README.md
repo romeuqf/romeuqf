@@ -34,13 +34,14 @@ class RomeuFronzaroli:
 ## ⚡ Technologies & Tools:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pyspark-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MicrosoftSQLServer-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Pyspark-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+
 
 
 <!-- Estudar! -->
